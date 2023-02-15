@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"AllDesktop",
 		"HoloLens",

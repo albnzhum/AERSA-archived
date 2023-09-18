@@ -1,4 +1,4 @@
-<img 
+
 <h1>AERSA</h1>
 <p>AERSA is a first-person adventure game. Engine - Unreal Engine 5</p>
 <h2>Description</h2>
